@@ -1,0 +1,19 @@
+{
+  "name": "hexlet-js-lessons",
+  "version": "1.0.0",
+  "description": "lessons task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonybarracuda/hexlet-js.git"
+  },
+  "author": "ABar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonybarracuda/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/tonybarracuda/hexlet-js#readme"
+}
